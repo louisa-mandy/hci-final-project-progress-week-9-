@@ -1,0 +1,31 @@
+.container-fluid{
+    background-color: #63C5E6 ;
+}
+
+.nav-item{
+    background-color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+
+}
+
+.profile-pic{
+    border-radius: 15%;
+
+}
+
+.Biodata{
+    padding-left: 4%;
+}
+
+.intro{
+    text-align: center;
+    margin-left: 4%;
+    margin-right: 4%;
+    text-indent: 4%;
+}
+
+.row{
+    margin-left: 15%;
+    margin-right: auto;
+}
